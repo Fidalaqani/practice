@@ -1,0 +1,2 @@
+print("fida ")
+print("ali")
